@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie_Search_App/static/css/main.e80e719b.css",
+    "main.js": "/Movie_Search_App/static/js/main.a1f5dc6b.js",
+    "static/js/787.fba0d2f6.chunk.js": "/Movie_Search_App/static/js/787.fba0d2f6.chunk.js",
+    "static/media/12713.jpg": "/Movie_Search_App/static/media/12713.e3fb348ae8ffcd1a0126.jpg",
+    "index.html": "/Movie_Search_App/index.html",
+    "main.e80e719b.css.map": "/Movie_Search_App/static/css/main.e80e719b.css.map",
+    "main.a1f5dc6b.js.map": "/Movie_Search_App/static/js/main.a1f5dc6b.js.map",
+    "787.fba0d2f6.chunk.js.map": "/Movie_Search_App/static/js/787.fba0d2f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80e719b.css",
+    "static/js/main.a1f5dc6b.js"
+  ]
+}
